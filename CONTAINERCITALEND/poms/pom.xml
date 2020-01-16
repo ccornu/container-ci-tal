@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example.containercitalend</groupId>
   <artifactId>code.Master</artifactId>
-  <version>7.2.1</version>
+  <version>0.1.0</version>
   <packaging>pom</packaging>
   <name>CONTAINERCITALEND Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
     <module>jobs/process/simplejob_0.1</module>
+    <module>code/routines</module>
   </modules>
   <properties>
     <talend.project.name>CONTAINERCITALEND</talend.project.name>
